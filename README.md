@@ -1,6 +1,6 @@
 # Meu primeiro desafio 
 
-## little basic notes to start that i forget at first 📔
+## little basic notes to start. Things that i forget at first 📔
 
 1. Ao utilizar o Git Bash devemos "considerar" como uma programação em linux, utilizando atalhos diferente do Windowns
 
